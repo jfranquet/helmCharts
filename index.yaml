@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  juanjochart:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-04-02T23:21:57.0873192+02:00"
+    description: A Helm chart for Kubernetes
+    digest: 0ab569caa5f16374d518d61ae1d7f5871ee2029cf851621d51c5475e2cbf3361
+    name: juanjochart
+    type: application
+    urls:
+    - charts/juanjochart-0.1.0.tgz
+    version: 0.1.0
+generated: "2023-04-02T23:21:57.0861965+02:00"
